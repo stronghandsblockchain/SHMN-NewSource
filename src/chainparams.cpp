@@ -60,16 +60,17 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
       (10, 	uint256("0x00000d95ca62b1c990a04a0b09c22d9167d6838ab30b04570ac51d258eb8b7f4"))
       (2300, 	uint256("0x00000db206944eb21d2b371f4fd4c9c17704bf780b276a3817e84c0fc18123ac"))
       (138900, 	uint256("0x8b352f67df20f18aea9e40ecc222f4f8fc10cece3aff02d67b5e98db8ac92a36"))
+      (459770, 	uint256("0x091c127622340033d1789e6b2557993007117e407c7b7cf2112e58a4b28dbd33"))
 
 	;
 
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
 //    1529048324, // * UNIX timestamp of genesis block
-    1556509375, // * UNIX timestamp of last checkpoint block
-    333064,    // * total number of transactions between genesis and last checkpoint
+    1615528615, // * UNIX timestamp of last checkpoint block
+    999130,    // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
-    1047        // * estimated number of transactions per day after checkpoint
+    959        // * estimated number of transactions per day after checkpoint
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
@@ -149,7 +150,7 @@ public:
         // 	BIP44 coin type is from https://github.com/satoshilabs/slips/blob/master/slip-0044.md
         base58Prefixes[EXT_COIN_TYPE] = boost::assign::list_of(0x80)(0x00)(0x00)(0x77).convert_to_container<std::vector<unsigned char> >();
 
-	vSeeds.push_back(CDNSSeedData("45.32.156.117","45.32.156.117"));
+	/*vSeeds.push_back(CDNSSeedData("45.32.156.117","45.32.156.117"));
 	vSeeds.push_back(CDNSSeedData("80.240.19.191","80.240.19.191"));
 	vSeeds.push_back(CDNSSeedData("80.240.25.159","80.240.25.159"));
 	vSeeds.push_back(CDNSSeedData("95.179.162.22","95.179.162.22"));
@@ -159,7 +160,10 @@ public:
 	vSeeds.push_back(CDNSSeedData("167.160.36.13","167.160.36.13"));
 	vSeeds.push_back(CDNSSeedData("104.200.67.161","104.200.67.161"));
 	vSeeds.push_back(CDNSSeedData("84.200.210.88","84.200.210.88"));
-	vSeeds.push_back(CDNSSeedData("185.243.115.79","185.243.115.79"));
+	vSeeds.push_back(CDNSSeedData("185.243.115.79","185.243.115.79"));*/
+	
+	vSeeds.push_back(CDNSSeedData("167.99.54.33","167.99.54.33"));
+	vSeeds.push_back(CDNSSeedData("104.248.117.192","104.248.117.192"));
 
 	convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
