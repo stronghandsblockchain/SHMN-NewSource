@@ -17,5 +17,5 @@ jobs:
       - name: build
         run: |
           ./autogen.sh
-          ./configure --with-gui=qt5 --with-incompatible-bdb
+          ./configure --with-gui=qt5
           make
