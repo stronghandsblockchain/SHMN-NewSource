@@ -21,4 +21,4 @@ jobs:
           make
 
       - name: Create GitHub Release
-        uses: pipe-cd/actions-gh-release@v2.5.0
+        uses: pipe-cd/actions-gh-release@v2500
