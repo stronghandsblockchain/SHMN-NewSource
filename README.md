@@ -65,6 +65,7 @@ Changes should be tested by somebody other than the developer who wrote the code
  ## Bootstrap Nodes
 ---
 Choose to add any of the following bootstrap nodes, per your preferred network configuration, to speed up peer discovery. Utilize addnode=HOSTNAME in your shmn.conf file.
+##### **A complete list of wallets that have connected to this node in the last 24hours you can find [here](http://shmn.explorer.stronghands.info/network#addnodes).**
 
 #### IPV4
 
