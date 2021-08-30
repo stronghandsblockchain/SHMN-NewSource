@@ -105,3 +105,8 @@ Choose to add any of the following bootstrap nodes, per your preferred network c
 * [2607:4f00:0:509::3]
 * [2a01:4f8:10a:232d::48]
 * [2a02:c207:2041:5161::5]
+
+## Where to buy?
+
+* [CATEX.io - SHMN/BTC](https://www.catex.io/trading/SHMN/BTC?load=1)
+* [CATEX.io - SHMN/TRX](https://www.catex.io/trading/SHMN/TRX)
