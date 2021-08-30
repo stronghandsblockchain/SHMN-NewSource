@@ -106,6 +106,14 @@ Choose to add any of the following bootstrap nodes, per your preferred network c
 * [2a01:4f8:10a:232d::48]
 * [2a02:c207:2041:5161::5]
 
+## How to compile SHMN-source
+
+Clone the source in a linux terminal using windows sub system or a vps and start the selection.
+```
+sudo git clone https://github.com/stronghands-official/SHMN-source.git && sudo chmod -R 755 SHMN-source && cd SHMN-source/compile && sudo ./compile.sh 
+```
+
+
 ## Where to buy?
 
 * [CATEX.io - SHMN/BTC](https://www.catex.io/trading/SHMN/BTC?load=1)
