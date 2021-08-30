@@ -15,7 +15,8 @@ jobs:
           
       - name: setup bekerleydb
         run: |
-           sudo ./install_db4.sh /usr/bin/bash
+           chmod +x ./install_db4.sh
+           ./install_db4.sh
           
       - name: build
         run: |
