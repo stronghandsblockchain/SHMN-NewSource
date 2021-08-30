@@ -19,3 +19,6 @@ jobs:
           ./autogen.sh
           ./configure --with-gui=qt5 --with-incompatible-bdb
           make
+
+      - name: Create GitHub Release
+        uses: pipe-cd/actions-gh-release@v2.5.0
