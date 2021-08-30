@@ -61,7 +61,7 @@ Changes should be tested by somebody other than the developer who wrote the code
   Total Supply: | 15,000,000 SHMN
   Port: | 50005
   RPC: | 50006
-  Full Node Core Wallets | [SHMN Releases (v.2.4 stable)](https://github.com/stronghands-official/SHMN-source/releases/tag/v2400)
+  Full Node Core Wallets | [SHMN Releases (v.2.5 latest)](https://github.com/stronghands-official/SHMN-source/releases/tag/v2500)
   Full Blockchain (speed up sync) | [https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip](https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip)
   peers.dat file * | [shmn-peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat)
   
