@@ -66,6 +66,14 @@ Changes should be tested by somebody other than the developer who wrote the code
   peers.dat file * | [shmn-peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat)
   
   * (check it out the [docs](https://docs.stronghands.info/docs/doc17) for instructions)
+
+# SHMN Masternode Stats
+You can check the Network stats, ROI calculation, price and paid rewards in the last 24h at [masternodes.online](https://masternodes.online/currencies/SHMN/) page.
+
+[MNO](https://masternodes.online/currencies/SHMN/) is a masternode coin monitoring and stats service. MNO does not research or recommend any coin. Do your own research and invest at your own risk.
+
+ROI changes often and is not the most important factor. Please consider Dev Team - Community - PURPOSE/Platform - Liquidity - Wallet when making masternode purchases.
+
 ## PS: Always use a VPN on all your devices 
 Virtual Private Network (VPN) is highly recommended to use when operating with cryptocurrencies. With so many threats and blocks emerging against a decentralized economy, VPN adds extra protection by hiding your data. It helps to overcome censorship and ISP Block rules and protects your privacy.
 
