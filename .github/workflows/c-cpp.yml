@@ -12,9 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - run: cd ../../../
-    - run: cd Depends
+    - run: cd ../../
+    - run: cd depends
     - run: bash LinuxDepends.sh
+    - run: cd ../
     - uses: actions/checkout@v2
     - run: ./autogen.sh
     - name: configure
