@@ -1,6 +1,8 @@
 <p align="center">
   <img width="200" height="200" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg">
 
+  [![SHMN-artifact](https://github.com/stronghands-official/SHMN-source/actions/workflows/shmn-artifact.yml/badge.svg)](https://github.com/stronghands-official/SHMN-source/actions/workflows/shmn-artifact.yml)
+  
 # StrongHands Masternode Core integration/staging repository
 </p>
   
