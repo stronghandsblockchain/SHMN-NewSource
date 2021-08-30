@@ -19,7 +19,10 @@ jobs:
           ./autogen.sh
           ./configure --with-gui=qt5 --with-incompatible-bdb
           make
-
-      - name: Create GitHub Release
-        uses: pipe-cd/actions-gh-release@v2.5.0rc1
+          
+      - name: Create Releases
+      - uses: pipe-cd/actions-gh-release@v2.5.0rc1
+        with:
+          release_file: 'RELEASE'
+          token: ${{ secrets.GITHUB_TOKEN }}
 
