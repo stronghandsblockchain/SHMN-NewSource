@@ -59,10 +59,13 @@ Changes should be tested by somebody other than the developer who wrote the code
   Total Supply: | 15,000,000 SHMN
   Port: | 50005
   RPC: | 50006
-  FullNode Core Wallets | [SHMN Releases (v.2.4 stable)](https://github.com/stronghands-official/SHMN-source/releases/tag/v2400)
+  Full Node Core Wallets | [SHMN Releases (v.2.4 stable)](https://github.com/stronghands-official/SHMN-source/releases/tag/v2400)
+  Full Blockchain (speed up sync) | [https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip](https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip)
+  peers.dat file * | [shmn-peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat)
   
-## Always use a VPN on all your devices 
-Virtual Private Network (VPN) is highly recommended to use when operating with cryptocurrencies. With so many threats and blocks emerging against a decentralized economy, VPN adds extra protection by hiding your data. It helps to overcome censorship and protects your privacy.
+  * (check it out the [docs](https://docs.stronghands.info/docs/doc17) for instructions)
+## PS: Always use a VPN on all your devices 
+Virtual Private Network (VPN) is highly recommended to use when operating with cryptocurrencies. With so many threats and blocks emerging against a decentralized economy, VPN adds extra protection by hiding your data. It helps to overcome censorship and ISP Block rules and protects your privacy.
 
 #### How to choose a VPN?
 There are many options on the internet out there. Which VPN to choose is really up to you. Depending on your demands, you can choose a paid VPN (which usually costs around $4 per month) or search for free versions. Keep in mind, free options usually have limitations and may affect your internet speed.
