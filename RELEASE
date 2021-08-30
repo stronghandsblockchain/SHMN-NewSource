@@ -1,0 +1,5 @@
+tag: v2.5.0rc1
+title: "2.5.0 First release candidate"          
+commitish: "First release candidate for the upcoming v2.5.0 release. Full, finalized release notes will be available with the final release version." 
+body: "Full, finalized release notes will be available with the final release version."
+prerelease: true
