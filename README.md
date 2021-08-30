@@ -18,7 +18,18 @@ SHMN is an open source community-driven cryptocurrency, focused on five main asp
 
 * (5) Ease of Use: SHMN is determined to offer the best possible graphical interface for a core node/wallet. A full featured graphical product for new and advanced users.
 
-More information and specs at [StrongHands Academy](https://docs.stronghands.info). Join the community at [StrongHands Blockchain Discord](https://discord.gg/gb8QWDx).
+More information and specs at [StrongHands Academy](https://docs.stronghands.info).
+
+## About StrongHands
+
+StrongHands is a large community of financial activists, investors and enthusiasts engaged to free the people from state control of your money.
+
+### Join the community 
+
+* [Discord Community](https://discord.gg/gb8QWDx)
+* [Telegram Main Channel](https://t.me/stronghandsofficial)
+* [Twitter](https://twitter.com/shmnofficial)
+
 
 ## License
 SHMN Core is released under the terms of the MIT license. See [COPYING](https://github.com/stronghands-official/SHMN-source/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
