@@ -11,7 +11,7 @@ jobs:
       
       - name: dependencies
         run: |
-          sudo apt-get -y install autoconf libprotobuf-dev libdb4.8-dev libdb4.8++-dev protobuf-compiler libminiupnpc-dev libzmq3-dev libqrencode-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libtool pkg-config libdb-dev libdb++-dev libboost-all-dev libssl-dev libevent-dev
+          sudo apt-get -y install autoconf libprotobuf-dev libdb4.8-dev libdb4.8++-dev libdb4.8++ libdb-dev libdb++-dev protobuf-compiler libminiupnpc-dev libzmq3-dev libqrencode-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libtool pkg-config libdb-dev libdb++-dev libboost-all-dev libssl-dev libevent-dev
           
           
       - name: build
