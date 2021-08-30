@@ -61,9 +61,19 @@ Changes should be tested by somebody other than the developer who wrote the code
   RPC: | 50006
   FullNode Core Wallets | [SHMN Releases (v.2.4 stable)](https://github.com/stronghands-official/SHMN-source/releases/tag/v2400)
   
+## Always use a VPN on all your devices 
+Virtual Private Network (VPN) is highly recommended to use when operating with cryptocurrencies. With so many threats and blocks emerging against a decentralized economy, VPN adds extra protection by hiding your data. It helps to overcome censorship and protects your privacy.
+
+#### How to choose a VPN?
+There are many options on the internet out there. Which VPN to choose is really up to you. Depending on your demands, you can choose a paid VPN (which usually costs around $4 per month) or search for free versions. Keep in mind, free options usually have limitations and may affect your internet speed.
+We can recommend using [NordVPN](https://nordvpn.com/download/) or [Proton VPN](https://account.protonvpn.com/signup).                                         
+
+For mobile users - [TurboVPN](https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn&hl=en) is a good solution.
+If you are eager to learn more about VPN technology - articles from this [website](https://thebestvpn.com/what-is-vpn-beginners-guide/) might be handy.
+
 
  ## Bootstrap Nodes
----
+
 Choose to add any of the following bootstrap nodes, per your preferred network configuration, to speed up peer discovery. Utilize addnode=HOSTNAME in your shmn.conf file.
 ##### **A complete list of wallets that have connected to this node in the last 24hours you can find [here](http://shmn.explorer.stronghands.info/network#addnodes).**
 
