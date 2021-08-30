@@ -1,7 +1,9 @@
+<p align="center">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg">
 
-# ![StrongHands Masternode](https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg)
 # StrongHands Masternode Core integration/staging repository
-
+</p>
+  
 ## What is SHMN?
 
 SHMN is an open source community-driven cryptocurrency, focused on five main aspects:
@@ -46,7 +48,7 @@ Changes should be tested by somebody other than the developer who wrote the code
 
 # StrongHands Masternode (SHMN) Specifications
 
-![SHMN](https://raw.githubusercontent.com/stronghands-official/assets/695773fea72e8dc15a90acd7eecf3ce18c7ff840/shmn-logo-20x20.svg) *Coin Specs* | &nbsp;
+<img align="left" width="18" height="18" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg"> *Coin Specs* | &nbsp; 
 ------------ | -------------
   Name: | StrongHands Masternode
   Ticker: | SHMN
