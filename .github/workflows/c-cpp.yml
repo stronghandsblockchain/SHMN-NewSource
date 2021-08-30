@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - run: cd ../../../
     - run: cd depends
     - run: bash LinuxDepends.sh
     - run: cd ../
