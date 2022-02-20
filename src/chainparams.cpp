@@ -162,8 +162,8 @@ public:
 	vSeeds.push_back(CDNSSeedData("84.200.210.88","84.200.210.88"));
 	vSeeds.push_back(CDNSSeedData("185.243.115.79","185.243.115.79"));*/
 	
-	vSeeds.push_back(CDNSSeedData("167.99.54.33","167.99.54.33"));
-	vSeeds.push_back(CDNSSeedData("104.248.117.192","104.248.117.192"));
+	vSeeds.push_back(CDNSSeedData("199.127.140.224","199.127.140.224"));
+	vSeeds.push_back(CDNSSeedData("199.127.140.225","199.127.140.225"));
 
 	convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
