@@ -163,8 +163,10 @@ public:
 	vSeeds.push_back(CDNSSeedData("185.243.115.79","185.243.115.79"));*/
 	
 	vSeeds.push_back(CDNSSeedData("199.127.140.224","199.127.140.224"));
-	vSeeds.push_back(CDNSSeedData("199.127.140.225","199.127.140.225"));
-
+	vSeeds.push_back(CDNSSeedData("199.127.140.225","199.127.140.225"));	
+	vSeeds.push_back(CDNSSeedData("199.127.140.235","199.127.140.235"));
+	vSeeds.push_back(CDNSSeedData("199.127.140.235","199.127.140.236"));
+	
 	convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
         fRequireRPCPassword = true;
