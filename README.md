@@ -125,3 +125,8 @@ sudo git clone https://github.com/stronghands-official/SHMN-source.git && sudo c
 
 * [CATEX.io - SHMN/BTC](https://www.catex.io/trading/SHMN/BTC?load=1)
 * [CATEX.io - SHMN/TRX](https://www.catex.io/trading/SHMN/TRX)
+
+
+## Sync and no network problems?
+
+* Please download the last version of our shmn.conf file [here](https://github.com/stronghandsblockchain/SHMN-NewSource/tree/master/contrib/debian/examples) and substitute the old one in SHMN folder in your Win/Mac/Linux system.
