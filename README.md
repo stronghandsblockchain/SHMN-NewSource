@@ -20,7 +20,6 @@ SHMN is an open source community-driven cryptocurrency, focused on five main asp
 
 * (5) Ease of Use: SHMN is determined to offer the best possible graphical interface for a core node/wallet. A full featured graphical product for new and advanced users.
 
-More information and specs at [StrongHands Academy](https://docs.stronghands.info).
 
 ## About StrongHands
 
@@ -40,7 +39,7 @@ SHMN Core is released under the terms of the MIT license. See [COPYING](https://
 
 The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/stronghands-official/SHMN-source/tags) are created regularly from release branches to indicate new official, stable release versions of SHMN Core.
 
-The contribution workflow is described in [CONTRIBUTING.md](https://github.com/stronghands-official/SHMN-source/blob/master/CONTRIBUTING.md) and useful hints for developers can be found in [doc/developer-notes.md](https://github.com/stronghands-official/SHMN-source/blob/master/doc/developer-notes.md).
+The contribution workflow is described in [CONTRIBUTING.md](https://github.com/stronghandsblockchain/SHMN-NewSource//blob/master/CONTRIBUTING.md) and useful hints for developers can be found in [doc/developer-notes.md](https://github.com/stronghandsblockchain/SHMN-NewSource/blob/master/doc/developer-notes.md).
 
 ## Testing
 
@@ -48,7 +47,7 @@ Testing and code review is the bottleneck for development; we get more pull requ
 
 ## Automated Testing
 
-Developers are strongly encouraged to write [unit tests](https://github.com/stronghands-official/SHMN-source/blob/master/src/test/README.md) for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make check. Further details on running and extending unit tests can be found in [/src/test/README.md](https://github.com/stronghands-official/SHMN-source/blob/master/src/test/README.md).
+Developers are strongly encouraged to write [unit tests](https://github.com/stronghandsblockchain/SHMN-NewSource/blob/master/src/test/README.md) for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make check. Further details on running and extending unit tests can be found in [/src/test/README.md](https://github.com/stronghandsblockchain/SHMN-NewSource/blob/master/src/test/README.md).
 
 There are also regression and integration tests, written in Python. These tests can be run (if the test dependencies are installed) with: test/functional/test_runner.py`
 
@@ -74,11 +73,9 @@ Changes should be tested by somebody other than the developer who wrote the code
   Total Supply: | 15,000,000 SHMN
   Port: | 50005
   RPC: | 50006
-  Full Node Core Wallets | [SHMN Releases (v.2.5 latest)](https://github.com/stronghands-official/SHMN-source/releases/tag/v2500)
-  Full Blockchain (speed up sync) | [https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip](https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip)
-  peers.dat file * | [shmn-peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat)
+  Full Node Core Wallets | [SHMN Releases (v2400 latest)](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/tag/v2400)
+  Full Blockchain: speed up sync using a [Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
   
-  * (check it out the [docs](https://docs.stronghands.info/docs/doc17) for instructions)
 
 # SHMN Masternode Stats
 You can check the Network stats, ROI calculation, price and paid rewards in the last 24h at [masternodes.online](https://masternodes.online/currencies/SHMN/) page.
@@ -103,21 +100,18 @@ If you are eager to learn more about VPN technology - articles from this [websit
 Choose to add any of the following bootstrap nodes, per your preferred network configuration, to speed up peer discovery. Utilize addnode=HOSTNAME in your shmn.conf file.
 ##### **A complete list of wallets that have connected to this node in the last 24hours you can find [here](http://shmn.explorer.stronghands.info/network#addnodes).**
 
-#### IPV4
+### External WhiteListing IPV4
+* whitelist=199.127.140.224
+* whitelist=199.127.140.225
+* whitelist=199.127.140.235
+* whitelist=199.127.140.236
 
-* dnsseed.shmn.stronghands.info
-* shmn.explorer.stronghands.info
-* node1.shmn.stronghands.info
-* node2.shmn.stronghands.info
-* 143.244.208.76
-* 143.198.155.198
+### External WhiteListing IPV6
+* whitelist=[2604:6800:5e11:3611::1]
+* whitelist=[2604:6800:5e11:3611::2]
+* whitelist=[2604:6800:5e11:3614::3]
+* whitelist=[2604:6800:5e11:3614::4]
 
-#### IPV6
-
-* [2604:a880:4:1d0::297:e000]
-* [2607:4f00:0:509::3]
-* [2a01:4f8:10a:232d::48]
-* [2a02:c207:2041:5161::5]
 
 ## How to compile SHMN-source
 
