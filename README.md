@@ -74,7 +74,7 @@ Changes should be tested by somebody other than the developer who wrote the code
   Port: | 50005
   RPC: | 50006
   Full Node Core Wallets | [SHMN Releases (v2400 latest)](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/tag/v2400)
-  Full Blockchain: speed up sync | [Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
+  Full Blockchain: speed up sync | [Bootstrap](https://bootstrap.stronghands.info/shmnboot_strap.zip)
   How to Setup a Masternode | [Guide](https://github.com/stronghandsblockchain/SHMN-masternode-setup)
   
 
