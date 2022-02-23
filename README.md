@@ -1,7 +1,7 @@
 <p align="center">
   <img width="200" height="200" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg">
 
- ![In Developement](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
+ ![In Development](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
   
 # StrongHands Masternode Core integration/staging repository
 </p>
