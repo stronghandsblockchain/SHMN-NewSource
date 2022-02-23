@@ -99,7 +99,6 @@ If you are eager to learn more about VPN technology - articles from this [websit
  ## Bootstrap Nodes
 
 Choose to add any of the following bootstrap nodes, per your preferred network configuration, to speed up peer discovery. Utilize addnode=HOSTNAME in your shmn.conf file.
-##### **A complete list of wallets that have connected to this node in the last 24hours you can find [here](http://shmn.explorer.stronghands.info/network#addnodes).**
 
 ### External WhiteListing IPV4
 * whitelist=199.127.140.224
