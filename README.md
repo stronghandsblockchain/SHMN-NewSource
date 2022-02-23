@@ -1,7 +1,7 @@
 <p align="center">
   <img width="200" height="200" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg">
 
-  [![SHMN-artifact](https://github.com/stronghands-official/SHMN-source/actions/workflows/shmn-artifact.yml/badge.svg)](https://github.com/stronghands-official/SHMN-source/actions/workflows/shmn-artifact.yml)
+ ![In Developement](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
   
 # StrongHands Masternode Core integration/staging repository
 </p>
@@ -66,7 +66,7 @@ Changes should be tested by somebody other than the developer who wrote the code
   Ticker: | SHMN
   PoW Algo: | Quark
   Required Coins for a Masternode: | 1,000 SHMN
-  Reward System: | Masternode and PoS
+  Reward System: | Masternode (70%) and PoS (30%)
   PoS Minimum Stake Age: | 7 days
   PoS Reward: | 5 coins/block
   Blocktime: | 180 seconds
@@ -74,7 +74,8 @@ Changes should be tested by somebody other than the developer who wrote the code
   Port: | 50005
   RPC: | 50006
   Full Node Core Wallets | [SHMN Releases (v2400 latest)](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/tag/v2400)
-  Full Blockchain: speed up sync using a [Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
+  Full Blockchain: speed up sync | [Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
+  How to Setup a Masternode | [Guide](https://github.com/stronghandsblockchain/SHMN-masternode-setup)
   
 
 # SHMN Masternode Stats
