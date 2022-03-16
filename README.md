@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg">
+  <img width="200" height="200" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHMN/icon/SHMN%20512x512%20primary.png">
 
  ![In Development](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
   
@@ -37,7 +37,7 @@ SHMN Core is released under the terms of the MIT license. See [COPYING](https://
 
 ## Development Process
 
-The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/stronghands-official/SHMN-source/tags) are created regularly from release branches to indicate new official, stable release versions of SHMN Core.
+The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/stronghandsblockchain/SHMN-source/tags) are created regularly from release branches to indicate new official, stable release versions of SHMN Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](https://github.com/stronghandsblockchain/SHMN-NewSource//blob/master/CONTRIBUTING.md) and useful hints for developers can be found in [doc/developer-notes.md](https://github.com/stronghandsblockchain/SHMN-NewSource/blob/master/doc/developer-notes.md).
 
@@ -60,7 +60,7 @@ Changes should be tested by somebody other than the developer who wrote the code
 
 # StrongHands Masternode (SHMN) Specifications
 
-<img align="left" width="18" height="18" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg"> *Coin Specs* | &nbsp; 
+<img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHMN/icon/SHMN%20512x512%20primary.png"> *Coin Specs* | &nbsp; 
 ------------ | -------------
   Name: | StrongHands Masternode
   Ticker: | SHMN
