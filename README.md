@@ -58,7 +58,7 @@ The CI (Continuous Integration) systems make sure that every pull request is bui
 Changes should be tested by somebody other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing the changes is not straightforward.
 
 
-# StrongHands Masternode (SHMN) Specifications
+## StrongHands Masternode (SHMN) Specifications
 
 <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHMN/icon/SHMN%20512x512%20primary.png"> *Coin Specs* | &nbsp; 
 ------------ | -------------
@@ -73,9 +73,19 @@ Changes should be tested by somebody other than the developer who wrote the code
   Total Supply: | 15,000,000 SHMN
   Port: | 50005
   RPC: | 50006
-  Full Node Core Wallets | [SHMN Releases (v2400 latest)](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/tag/v2400)
+  
+  
+  ### Downloads and Resources
+  
+  <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHMN/icon/SHMN%20512x512%20primary.png"> *Wallets* | v2400&nbsp; 
+  ------------ | -------------
+  Win32 | [Download](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/download/v2400/win32-shmn-qt-v2400.zip)
+  Win64 | [Download](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/download/v2400/win32-shmn-qt-v2400.zip)
+  MacOS | [Download](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/download/v2400/macOS-shmnqt-v2400.zip)
+  Ubuntu | [Download](https://github.com/stronghandsblockchain/SHMN-NewSource/releases/download/v2400/ubu64-shmn-qt-v2400.zip)
   Full Blockchain: speed up sync | [Bootstrap](https://bootstrap.stronghands.info/shmnboot_strap.zip)
   How to Setup a Masternode | [Guide](https://github.com/stronghandsblockchain/SHMN-masternode-setup)
+  
   
 
 # SHMN Masternode Stats
