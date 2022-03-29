@@ -7,7 +7,7 @@
   <img alt="Discord" src="https://img.shields.io/discord/396700779618107394?style=for-the-badge">
 ![Twitter](https://img.shields.io/twitter/follow/shmnofficial?style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/stronghandsblockchain/SHMN-NewSource/v2400/total?style=for-the-badge)
+![](https://img.shields.io/github/downloads/stronghandsblockchain/SHMN-NewSource/v2400/total?style=for-the-badge)
   
 # StrongHands Masternode Core integration/staging repository
 </p>
