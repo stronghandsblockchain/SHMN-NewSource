@@ -5,9 +5,10 @@
   ![](https://img.shields.io/github/languages/top/stronghandsblockchain/SHMN-NewSource?style=for-the-badge)
   ![In Development](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
   <img alt="Discord" src="https://img.shields.io/discord/396700779618107394?style=for-the-badge">
-![Twitter](https://img.shields.io/twitter/follow/shmnofficial?style=for-the-badge)
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)
-![](https://img.shields.io/github/downloads/stronghandsblockchain/SHMN-NewSource/v2400/total?style=for-the-badge)
+[![Discord](https://img.shields.io/discord/396700779618107394?style=for-the-badge)](https://discord.gg/WrA8TNXaa5)
+ [![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)](https://twitter.com/shndofficial)
+ [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)](https://www.reddit.com/r/stronghandsblockchain/)
+
   
 # StrongHands Masternode Core integration/staging repository
 </p>
