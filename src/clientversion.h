@@ -15,7 +15,7 @@
 
 //! These need to be macros, as clientversion.cpp's and shmn*-res.rc's voodoo requires it
 #define CLIENT_VERSION_MAJOR 2
-#define CLIENT_VERSION_MINOR 5
+#define CLIENT_VERSION_MINOR 4
 #define CLIENT_VERSION_REVISION 0
 #define CLIENT_VERSION_BUILD 0
 
@@ -27,7 +27,6 @@
  * Todo: update this when changing our copyright comments in the source
  */
 #define COPYRIGHT_YEAR 2018
-#define COPYRIGHT_YEAR2 2021
 
 #endif //HAVE_CONFIG_H
 
@@ -39,7 +38,7 @@
 #define DO_STRINGIZE(X) #X
 
 //! Copyright string used in Windows .rc files
-#define COPYRIGHT_STR "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin Core Developers, 2014-" STRINGIZE(COPYRIGHT_YEAR) " The Dash Core Developers, 2015-" STRINGIZE(COPYRIGHT_YEAR) " The Pivx Core Developers, 2017-" STRINGIZE(COPYRIGHT_YEAR) " The shmn core Developers, 2018-" STRINGIZE(COPYRIGHT_YEAR2)
+#define COPYRIGHT_STR "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin Core Developers, 2014-" STRINGIZE(COPYRIGHT_YEAR) " The Dash Core Developers, 2015-" STRINGIZE(COPYRIGHT_YEAR) " The Pivx Core Developers, 2017-" STRINGIZE(COPYRIGHT_YEAR) " The shmn core Developers, 2018"
 
 /**
  * shmnd-res.rc includes this file, but it cannot cope with real c++ code.
